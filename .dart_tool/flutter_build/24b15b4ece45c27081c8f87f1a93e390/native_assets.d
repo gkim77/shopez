@@ -1,0 +1,1 @@
+ C:\\Users\\bilti\\Downloads\\shopez-main\\.dart_tool\\flutter_build\\24b15b4ece45c27081c8f87f1a93e390\\native_assets.yaml: 
